@@ -1,0 +1,24 @@
+[
+    {
+      "airline": "indigo",
+      "source": "Delhi",
+      "destination": "Jaipur",
+      "date": "15 April 2023",
+      "price": 1614
+    },
+    {
+      "airline": "airAsia",
+      "source": "Delhi",
+      "destination": "Jaipur",
+      "date": "15 April 2023",
+      "price": 1869
+    },
+    {
+      "airline": "vistara",
+      "source": "Delhi",
+      "destination": "Jaipur",
+      "date": "15 April 2023",
+      "price": 2133
+    }
+  ]
+  
